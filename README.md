@@ -41,11 +41,11 @@ The system provides recruiters with transparent, explainable, and data-driven hi
 
 | Dashboard | Candidate Details |
 |-----------|-------------------|
-| ![Dashboard](docs/images/dashboard.png) | ![Candidate](docs/images/candidate.png) |
+| ![Dashboard](docs/images/dashboard.png) |
 
 | API Documentation | Ranking Results |
 |-------------------|-----------------|
-| ![API](docs/images/api.png) | ![Top100](docs/images/top100.png) |
+| ![Data](docs/images/api.png) | ![Percentage](docs/images/top100.png) |
 
 # 📖 Project Overview
 
