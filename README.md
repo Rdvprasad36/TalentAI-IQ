@@ -39,8 +39,8 @@ The system provides recruiters with transparent, explainable, and data-driven hi
 
 > **(Replace these placeholders after deployment.)**
 
-| Dashboard | Candidate Details |
-|-----------|-------------------|
+| Dashboard | 
+|-----------|
 | ![Dashboard](docs/images/dashboard.png) |
 
 | API Documentation | Ranking Results |
@@ -48,11 +48,6 @@ The system provides recruiters with transparent, explainable, and data-driven hi
 | ![Data](docs/images/api.png) | ![Percentage](docs/images/top100.png) |
 
 ---
-# 🤖 TalentIQ AI
-
-### Explainable AI-Powered Candidate Ranking System
-
-> Built for the **Redrob AI Hiring Challenge 2026**
 
 ![Python](https://img.shields.io/badge/Python-3.13-blue?style=for-the-badge&logo=python)
 ![FastAPI](https://img.shields.io/badge/FastAPI-Backend-green?style=for-the-badge&logo=fastapi)
