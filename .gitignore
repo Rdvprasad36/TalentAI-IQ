@@ -1,0 +1,41 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+.venv/
+venv/
+
+.env
+
+.idea/
+.vscode/
+
+output/
+
+*.log
+
+.DS_Store
+
+Thumbs.db
+
+*.csv
+!submission.csv
+# Large dataset
+data/candidates.jsonl
+
+# Generated outputs
+submission.csv
+
+# Python virtual environment
+.venv/
+
+__pycache__/
+*.pyc
+
+.venv/
+__pycache__/
+*.pyc
+
+data/candidates.jsonl
+submission.csv
